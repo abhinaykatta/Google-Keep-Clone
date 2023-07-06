@@ -45,6 +45,9 @@
     ]
   },
   "main": "index.js",
+  "overrides": {
+    "semver": "^7.5.3"
+  },
   "repository": {
     "type": "git",
     "url": "Google-Keep-Clone"
